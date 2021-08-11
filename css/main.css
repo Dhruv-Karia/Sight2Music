@@ -1,0 +1,42 @@
+.image{
+    height: 230px;
+    width: 270px;
+
+}
+
+.copyright-text{
+
+    margin-left: 50%;
+}
+
+.service-item{
+    height: 275px;
+}
+
+
+.fifth{
+    margin-left: 230px;
+    margin-top: 25px
+}
+
+
+.sixth{
+    margin-left: 1px;
+    margin-top: 25px
+}
+
+.resource{
+    font-size: 25px;
+    text-decoration: none;
+}
+
+
+.right-image{
+    width: 200px;
+}
+
+
+
+.middle{
+    margin-left: 23%;
+}
